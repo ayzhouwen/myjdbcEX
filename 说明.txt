@@ -2,7 +2,16 @@
 1.项目架构
 1.1)两种配置方式使用druid
     1.1.1)spring+druid
-    1.1.2)单独的druid的封装类(源于jfinal的druid插件)
+    1.1.2)单独的druid的封装类(直接new 即可,然后set属性,把连接池设置成单例即可)
 2)非连接池的实现
 
 2.对于jar包的使用根据情况自己在pom里进行增减,
+
+
+开发工具:
+          IntelliJ IDEA 2016.3.2
+          Build #IU-163.10154.41, built on December 21, 2016
+          Licensed to Rover12421
+          Subscription is active until December 31, 2099
+          JRE: 1.8.0_40-b25 amd64
+          JVM: Java HotSpot(TM) 64-Bit Server VM by Oracle Corporation
